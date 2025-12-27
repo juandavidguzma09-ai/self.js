@@ -277,7 +277,7 @@ client.on('error', (error) => {
     console.error('client error:', error);
 });
 
-console.log('starting self... (by pansi)');
+console.log('starting self... (by infinito)');
 client.login(CONFIG.TOKEN).catch(error => {
     console.error('login error:', error);
     console.log('check if your token is correct');
