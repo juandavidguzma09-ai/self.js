@@ -1,0 +1,14 @@
+{
+  "name": "h3d-self",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "infinito",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js-selfbot-v13": "^2.14.12",
+    "figlet": "^1.7.0"
+  }
+}
