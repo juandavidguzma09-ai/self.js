@@ -5,8 +5,11 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "infinito",
+  "author": "pansi",
   "license": "MIT",
+  "engines": {
+    "node": "16.x"
+  },
   "dependencies": {
     "discord.js-selfbot-v13": "^2.14.12",
     "figlet": "^1.7.0"
